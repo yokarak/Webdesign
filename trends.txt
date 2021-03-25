@@ -1,0 +1,12 @@
+trend no. 3 inde på editorx.com (https://www.editorx.com/prowebsites/web-design-trends?utm_source=smashing&utm_medium=cpc&utm_campaign=ma_ads_edx-brand-trends-smashing&experiment_id=newsletter)
+jeg finder det meget passende til min hjemmeside ide (php/laravel printify webshop), da det vil gøre det at handle inde på siden mere personliseret
+jeg kunne f.eks. gøre det til at design af sidens baggrund skifter i visse tilfælde ( se https://takearecess.com/)
+eller vise produkter som ville passe til det man tidligere har valgt
+
+
+Horizontal scrolling
+kan bruges til at vise forskellige farve versioner på et produkt
+
+Dark mode
+jeg elsker dark mode, men det ville måske ikke være passende for en web shop, jeg kan dog se en mulighed for det inden for denne webshop.
+
